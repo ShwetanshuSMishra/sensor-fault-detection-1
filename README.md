@@ -19,9 +19,9 @@ The problem is to reduce the cost due to unnecessary repairs. So it is required 
 
 ## Infrastructure Required.
 
-1. AWS S3
-2. AWS EC2
-3. AWS ECR
+1. AWS S3 (To store artifact and model in S3 bucket)
+2. AWS EC2 (It is a virtual machine)
+3. AWS ECR (Elastic Container Registry)
 4. Git Actions
 5. Terraform
 
